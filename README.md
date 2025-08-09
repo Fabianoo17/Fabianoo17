@@ -1,4 +1,4 @@
-# Fabiano Barbosa
+# Fabiano S. Barbosa
 
 **.NET Software Engineer** · C# · ASP.NET · Azure · Microservices · RabbitMQ · SQL Server
 
